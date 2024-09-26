@@ -9,5 +9,6 @@
     },
     "require": {
         "php": "^8.3"
-    }
+    },
+    "description": "Composer validity example."
 }

@@ -1,0 +1,13 @@
+{
+    "name": "hugomatheus/project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hugomatheus\\Project\\": "src/"
+        }
+    },
+    "require": {
+
+    }
+}
